@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <declare-styleable name="DoraBadgeView">
+        <attr name="dview_bv_badgeColor" format="color|reference"/>
+        <attr name="dview_bv_badgeRadius" format="dimension|reference"/>
+        <attr name="dview_bv_badgeGravity">
+            <enum name="leftUp" value="0"/>
+            <enum name="rightUp" value="1"/>
+            <enum name="rightBottom" value="2"/>
+            <enum name="leftBottom" value="3"/>
+        </attr>
+        <attr name="dview_bv_badgeVerticesOffset" format="dimension|reference"/>
+        <attr name="dview_bv_showBadge" format="boolean"/>
+    </declare-styleable>
+</resources>
