@@ -2,6 +2,9 @@ dview-badge-view
 ![Release](https://jitpack.io/v/dora4/dview-badge-view.svg)
 --------------------------------
 
+#### 卡片
+![DORA视图 信号标记者](https://github.com/user-attachments/assets/6cc65397-1596-4835-bb7e-34ec3b2bebe5)
+
 #### Gradle依赖配置
 
 ```groovy
